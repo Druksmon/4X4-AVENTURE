@@ -2077,7 +2077,7 @@ input, select, textarea {
 		}
 
 		.homepage #header {
-			height: 40em;
+			height: 100vh;
 		}
 
 /* Logo */
